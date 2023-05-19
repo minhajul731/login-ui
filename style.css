@@ -1,0 +1,26 @@
+body {
+    background-image: url("images/backgroundimage1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.39) !important;
+}
+
+.nav-bg-style {
+    background-color: rgba(255, 255, 255, 0.082) !important;
+}
+
+.login-form-style {
+    background-color: rgba(150, 150, 150, 0.158);
+    padding: 60px;
+    height: 90%;
+    border-radius: 10px;
+}
+
+.input-field-style {
+    background-color: rgba(255, 255, 255, 0.158) !important;
+}
